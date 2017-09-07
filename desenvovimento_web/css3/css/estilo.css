@@ -4,21 +4,59 @@
 	height: 300px;
 	margin-left: 10px;
 	background: url("../img/camera.png");
+	background: #00510F;
+
 }
 
 #box h1{
 
 	background: rgba(255,255,255,0.5);
 	border-bottom: 2px solid #fff;
+	
+}
 
+#box p{
+	font-family: "open_sansextrabold","Open Sans",Arial,Helvetica,sans-serif;	
+	font-size: 20px;
+	color: #fff;
+}
+
+.fonte-branca{
+	color: #fff;
+	font-size: 30px;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+*/
+
+/*#box{
+	
+	width: 300px;
+	height: 300px;
+	margin-left: 10px;
+	background: linear-gradient(80deg, red, yellow);
+	background: radial-gradient(red, yellow, red, yellow);
 }
 */
 
 #box{
 	
-	width: 300px;
-	height: 300px;
-	margin-left: 10px;
-	/*background: linear-gradient(80deg, red, yellow);*/
-	background: radial-gradient(red, yellow, red, yellow);
+	width: 400px;
+	height: 400px;
+	margin: 50px auto;
+	padding: 8px;
+	background: #009670;
+	/*box-shadow: 10px 10px black;*/
+	box-shadow: 10px 10px 2px 2px rgba(0,0,0,0.5);
+	/*box-shadow: 10px 10px 2px rgba(0,0,0,0.5), -10px -10px 2px red;*/
+
+
+}
+
+#box h1{
+
+	color: white;
+	font-size: 60px;
+	/*text-shadow: 20px 20px 10px black;*/
+	/*text-shadow: 20px 20px rgba(0,0,0,0.5);*/
+	text-shadow: 4px 4px black;
 }
