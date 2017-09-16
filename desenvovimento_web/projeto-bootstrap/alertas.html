@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+        <title>Alertas</title>
+
+        <!-- Bootstrap -->
+        <link href="bootstrap/css/bootstrap.css" rel="stylesheet">
+        <link href="estilo.css" rel="stylesheet">
+
+        <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+        <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+        <!--[if lt IE 9]>
+          <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+          <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+        <![endif]-->
+
+    </head>
+    
+    <body>
+
+       <div class="container">
+            
+           <header  class="page-header" aria-label="Título da página">
+               <h1> Alertas no Bootstrap </h1>          
+           </header> 
+
+           <div class="alert alert-success" role="alert">
+              
+              <button type="button" class="close" data-dismiss="alert" aria-label="fechar alerda de sucesso">
+                    <span aria-hidden="true">&times;</span>
+              </button>
+              Parabéns você conseguiu!
+
+           </div>
+
+           <div class="alert alert-info">
+
+              <button type="button" class="close" data-dismiss="alert" aria-label="fechar alerta de informação">
+                    <span aria-hidden="true">&times;</span>
+              </button>
+
+              É... isso você precisa prestar bem a atenção...
+           </div>
+           
+
+           <div class="alert alert-warning" role="alert">
+
+              <button type="button" class="close" data-dismiss="alert" aria-label="fechar alerta de aviso">
+              <span aria-hidden="true">&times;</span>
+              </button>
+
+              Olha, isso não está muito certo. Fique atento!
+           </div>
+
+
+           <div class="alert alert-danger" role="alert">
+
+              <button type="button" class="close" data-dismiss="alert" aria-label="fechar alerta de perigo">
+              <span aria-hidden="true">&times;</span>
+              </button>
+
+              Ah não! É perigoso! Para tudo!
+           </div>
+           
+
+
+       </div> <!-- container -->
+
+         
+             
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+        <!-- Include all compiled plugins (below), or include individual files as needed -->
+        <script src="bootstrap/js/bootstrap.min.js"></script>  
+     
+    </body>
+</html>
