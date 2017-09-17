@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+        <title>Abas</title>
+
+        <!-- Bootstrap -->
+        <link href="bootstrap/css/bootstrap.css" rel="stylesheet">
+        <link href="estilo.css" rel="stylesheet">
+
+        <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+        <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+        <!--[if lt IE 9]>
+          <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+          <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+        <![endif]-->
+
+    </head>
+    
+    <body>
+
+       <div class="container col-xs-12">
+            
+            <div class="page-header">
+                <h1> Bootstrap Abas</h1>
+                <p class="lead"> Alterne Facilmente entre conteúdos </p>
+            </div> <!-- page-header -->
+            
+            <!-- Criação das abas -->
+            <ul class="nav nav-tabs" role="tablist">
+                <li class="active"><a href="#info" data-toggle="tab" role="tab">Informações</a></li>
+                <li><a href="#avaliacoes" data-toggle="tab" role="tab">Avaliações</a></li>
+                <li><a href="#compre-tambem" data-toggle="tab" role="tab">Compre também</a></li>
+            </ul>
+
+            <!-- Contetúdo das abas -->
+            <div class="tab-content">
+                
+                <!-- aba de informações -->
+                <div class="tab-pane active" role="tabpanel" id="info">
+                    <h3>Informações</h3>
+                    
+                    <p>"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+                     tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+                     quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+                     consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+                     cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+                     proident, sunt in culpa qui officia deserunt mollit anim id est <strong>Informações</strong></p>
+
+                </div>
+
+                <!-- aba de Avaliações -->
+                <div class="tab-pane" role="tabpanel" id="avaliacoes">
+                    
+                    <h3>Avaliações</h3>
+                    
+                    <p>"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+                     tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+                     quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+                     consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+                     cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+                     proident, sunt in culpa qui officia deserunt mollit anim id est laborum." <strong>Avaliações</strong> </p>
+
+                </div>
+
+                <!-- aba de compre também -->
+                <div class="tab-pane" role="tabpanel" id="compre-tambem">
+                    
+                    <h3>Compre também</h3>
+
+                    <p>"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+                     tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+                     quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+                     consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+                     cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+                     proident, sunt in culpa qui officia deserunt mollit anim id est laborum." <strong>Compre também</strong> </p>
+
+                </div>
+
+
+            </div> <!-- tab-content -->
+
+       </div> <!-- container -->
+             
+       <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+       <!-- Include all compiled plugins (below), or include individual files as needed -->
+       <script src="bootstrap/js/bootstrap.min.js"></script>  
+       <script type="text/javascript">
+           
+           $(function () {
+               $('[data-toggle="tooltip"]').tooltip()
+               $('[data-toggle="popover"]').popover()
+           })
+
+       </script>
+ 
+    </body>
+</html>
