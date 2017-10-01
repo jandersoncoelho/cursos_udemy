@@ -1,0 +1,704 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"na",
+				"navbar-collapse"
+			],
+			[
+				"nav",
+				"navbar"
+			],
+			[
+				"ht",
+				"html"
+			],
+			[
+				"bt",
+				"btn-info"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"b",
+				"button\tTag"
+			],
+			[
+				"s",
+				"span\tTag"
+			],
+			[
+				"l",
+				"li\tTag"
+			],
+			[
+				"coi",
+				"container"
+			],
+			[
+				"i",
+				"img\tTag"
+			],
+			[
+				"th",
+				"th\tTag"
+			],
+			[
+				"col",
+				"col-lg-10"
+			],
+			[
+				"cl",
+				"col-sm-10"
+			],
+			[
+				"al",
+				"alternate"
+			],
+			[
+				"ani",
+				"animation-iteration-count"
+			],
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"pa",
+				"padding-left"
+			],
+			[
+				"bord",
+				"border-radius"
+			],
+			[
+				"aim",
+				"animation-delay"
+			],
+			[
+				"ba",
+				"black"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"font-s",
+				"font-style"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"aut",
+				"autofocus\tAttr"
+			],
+			[
+				"au",
+				"autofocus\tAttr"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"p",
+				"placeholder\tAttr"
+			],
+			[
+				"num",
+				"numero"
+			],
+			[
+				"he",
+				"header\tTag"
+			],
+			[
+				"h",
+				"html\thtml"
+			],
+			[
+				"pad",
+				"padding-left"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"ds",
+				"display"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"fi",
+				"fixa"
+			],
+			[
+				"bo",
+				"bottom"
+			],
+			[
+				"abso",
+				"absoluta"
+			],
+			[
+				"let",
+				"left"
+			],
+			[
+				"a",
+				"align-self"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"ali",
+				"text-align"
+			],
+			[
+				"sub",
+				"subtitulo"
+			],
+			[
+				"es",
+				"estilo"
+			],
+			[
+				"text",
+				"texto"
+			],
+			[
+				"border-co",
+				"border-color"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"de",
+				"def\tFunction"
+			],
+			[
+				"def",
+				"def\tFunction"
+			],
+			[
+				"ec",
+				"executar_ocr"
+			],
+			[
+				"retur",
+				"return"
+			],
+			[
+				"da",
+				"dados_jornal"
+			],
+			[
+				"ima",
+				"imagem_cinza"
+			],
+			[
+				"sha",
+				"shape_img"
+			],
+			[
+				"im",
+				"imagem_cinza"
+			],
+			[
+				"as",
+				"assertRaises"
+			],
+			[
+				"_",
+				"_nome_arquivo"
+			],
+			[
+				"ti",
+				"titulo_jornal"
+			],
+			[
+				"se",
+				"self"
+			],
+			[
+				"jor",
+				"jornal"
+			],
+			[
+				"if",
+				"if\tIf Condition"
+			],
+			[
+				"df",
+				"defs\tMethod"
+			],
+			[
+				"try",
+				"try\tTry/Except"
+			],
+			[
+				"data",
+				"data_publicacao"
+			],
+			[
+				"dat",
+				"data_publicacao"
+			],
+			[
+				"No",
+				"None"
+			],
+			[
+				"arqui",
+				"arquivo_imagem"
+			],
+			[
+				"arqui_",
+				"arquivo_imagem"
+			],
+			[
+				"ge",
+				"test_gera_pdf_imagem_unica_binaria"
+			],
+			[
+				"image",
+				"image_to_string"
+			],
+			[
+				"or",
+				"orig"
+			],
+			[
+				"w",
+				"warped"
+			],
+			[
+				"imagem",
+				"imagem"
+			],
+			[
+				"encon",
+				"encontra_contornos"
+			],
+			[
+				"orin",
+				"original_shape"
+			],
+			[
+				"imaga",
+				"imagem_emoldurada"
+			],
+			[
+				"em",
+				"imagem_emoldurada"
+			],
+			[
+				"imagem_eca",
+				"imagem_escala_cinza"
+			],
+			[
+				"bi",
+				"imagem_binarizada"
+			],
+			[
+				"o",
+				"imagem_original"
+			],
+			[
+				"contor",
+				"contornos"
+			],
+			[
+				"Ima",
+				"image_edged"
+			],
+			[
+				"ed",
+				"edged"
+			],
+			[
+				"to",
+				"tolist"
+			],
+			[
+				"fin",
+				"findContours"
+			],
+			[
+				"py",
+				"python-numpy"
+			],
+			[
+				"cra",
+				"Criando"
+			],
+			[
+				"an",
+				"ambiente"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "css",
+		"selected_items":
+		[
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"toggl",
+				"View: Toggle Menu"
+			],
+			[
+				"vie",
+				"View: Toggle Menu"
+			],
+			[
+				"me",
+				"View: Toggle Menu"
+			]
+		],
+		"width": 461.0
+	},
+	"console":
+	{
+		"height": 202.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/janderson/curso-python/independentes/upload-files/upload/settings.py",
+		"/home/janderson/curso-python/independentes/upload-files/blog/models.py",
+		"/home/janderson/Google Drive/cursos_udemy/desenvovimento_web/bootstrap-projeto-final/index.html",
+		"/home/janderson/Google Drive/cursos_udemy/desenvovimento_web/bootstrap-projeto-final/estilo.css",
+		"/home/janderson/.config/sublime-text-3/Packages/User/comment.sublime-snippet",
+		"/home/janderson/Google Drive/cursos_udemy/desenvovimento_web/projeto-bootstrap/index.html",
+		"/home/janderson/Google Drive/cursos_udemy/desenvovimento_web/projeto-bootstrap/alertas.html",
+		"/home/janderson/Google Drive/cursos_udemy/desenvovimento_web/projeto-bootstrap/estilo.css",
+		"/home/janderson/Google Drive/cursos_udemy/desenvovimento_web/projeto-bootstrap/icones.html",
+		"/home/janderson/Google Drive/cursos_udemy/desenvovimento_web/projeto-bootstrap/tooltip-popover.html",
+		"/home/janderson/Google Drive/cursos_udemy/desenvovimento_web/projeto-bootstrap/modal.html",
+		"/home/janderson/Google Drive/pesquisa_pibit/hemeroteca-digital/modulo_preparador/imagem.py",
+		"/home/janderson/curso-python/independentes/pycl/teste.py",
+		"/home/janderson/Google Drive/cursos_udemy/desenvovimento_web/projeto-bootstrap/botoes.html",
+		"/home/janderson/Google Drive/cursos_udemy/desenvovimento_web/projeto-bootstrap/navegacao.html",
+		"/home/janderson/Google Drive/cursos_udemy/desenvovimento_web/projeto-bootstrap/bootstrap/css/bootstrap.min.css",
+		"/home/janderson/Google Drive/cursos_udemy/desenvovimento_web/css3/sombras.html",
+		"/home/janderson/Google Drive/cursos_udemy/desenvovimento_web/css/fontes-cores.html",
+		"/home/janderson/Google Drive/cursos_udemy/desenvovimento_web/css3/css/estilo.css",
+		"/home/janderson/Google Drive/cursos_udemy/desenvovimento_web/css3/js/html5shiv.min.js",
+		"/home/janderson/Google Drive/cursos_udemy/desenvovimento_web/css3/border-box-radius.html",
+		"/home/janderson/Google Drive/cursos_udemy/desenvovimento_web/css3/css/degrade-transparencia-html",
+		"/home/janderson/Google Drive/cursos_udemy/desenvovimento_web/css3/normalize.html",
+		"/home/janderson/Google Drive/cursos_udemy/desenvovimento_web/css3/css/normalize.css",
+		"/home/janderson/Google Drive/cursos_udemy/desenvovimento_web/html5/novos-inputs.html",
+		"/home/janderson/Google Drive/cursos_udemy/desenvovimento_web/html5/novas-tags.html",
+		"/home/janderson/Google Drive/cursos_udemy/desenvovimento_web/html5/atributos-data-costumizados.html",
+		"/home/janderson/Google Drive/cursos_udemy/desenvovimento_web/html5/js/html5shiv.min.js",
+		"/home/janderson/Google Drive/cursos_udemy/desenvovimento_web/css/css-externo.html",
+		"/home/janderson/Google Drive/cursos_udemy/desenvovimento_web/css/links.html",
+		"/home/janderson/Google Drive/cursos_udemy/desenvovimento_web/css/tecblog/css/estilo.css",
+		"/home/janderson/Google Drive/cursos_udemy/desenvovimento_web/css/tecblog/index.html",
+		"/home/janderson/Google Drive/cursos_udemy/desenvovimento_web/css/tecblog/eletronicos.html",
+		"/home/janderson/Google Drive/cursos_udemy/desenvovimento_web/css/estilo.css",
+		"/home/janderson/Google Drive/cursos_udemy/desenvovimento_web/css/css-externo2.html",
+		"/home/janderson/Google Drive/cursos_udemy/desenvovimento_web/css/posicionamento.html",
+		"/home/janderson/Google Drive/cursos_udemy/desenvovimento_web/css/galeria.html",
+		"/home/janderson/Google Drive/cursos_udemy/desenvovimento_web/css/elementos-flutuantes.html",
+		"/home/janderson/Google Drive/cursos_udemy/desenvovimento_web/css/formatacao-textos.html",
+		"/home/janderson/Google Drive/cursos_udemy/desenvovimento_web/css/inline_style.html",
+		"/home/janderson/Google Drive/cursos_udemy/desenvovimento_web/css/modelo-caixa.html",
+		"/home/janderson/Área de Trabalho/teste.py",
+		"/home/janderson/Google Drive/cursos_udemy/desenvovimento_web/css/bordas.html",
+		"/home/janderson/Google Drive/cursos_udemy/desenvovimento_web/css/span-div.html",
+		"/home/janderson/Google Drive/cursos_udemy/README.md",
+		"/home/janderson/Google Drive/cursos_udemy/desenvovimento_web/projeto_final/contato.html",
+		"/home/janderson/Google Drive/cursos_udemy/desenvovimento_web/primeiro_projeto/teste_angular.html",
+		"/home/janderson/Google Drive/cursos_udemy/desenvovimento_web/primeiro_projeto/index.html",
+		"/home/janderson/Google Drive/cursos_udemy/desenvovimento_web/primeiro_projeto/contato.html",
+		"/home/janderson/Google Drive/cursos_udemy/desenvovimento_web/primeiro projeto/projeto.html",
+		"/home/janderson/Google Drive/cursos_udemy/desenvovimento_web/aula01/index.html",
+		"/home/janderson/Google Drive/cursos_udemy/desenvovimento_web/aula01/css/estilo.css",
+		"/home/janderson/.virtualenvs/tutorial_django/lib/python3.5/site-packages/django/conf/__init__.py",
+		"/home/janderson/curso-python/independentes/curso_testes/calculadora.py",
+		"/home/janderson/configura_rede_raspberry.txt",
+		"/home/janderson/pesquisa_pibit/hemeroteca-digital/modulo_preparador/modulo_preparador.sh",
+		"/home/janderson/pesquisa_pibit/hemeroteca-digital/modulo_preparador/test_proc_jornal.py",
+		"/home/janderson/pesquisa_pibit/hemeroteca-digital/modulo_preparador/.gitignore",
+		"/home/janderson/pesquisa_pibit/jornais/pendrive_cepdomp/1960_06_correio_do_pontal/pdf/teste_ocrmypdf.sh",
+		"/home/janderson/Área de Trabalho/simone/trab/src/trab/Trab.java",
+		"/home/janderson/Área de Trabalho/simone/trab/src/trab/Candidato.java",
+		"/home/janderson/pesquisa_pibit/jornais/pendrive_cepdomp/1960_06_correio_do_pontal/teste_ocrmypdf.sh",
+		"/home/janderson/curso-python/independentes/ocr_my_pdf/ocr-tree.py",
+		"/home/janderson/pesquisa_pibit/hemeroteca-digital/modulo_preparador/ajuda_ocrmypdf.txt",
+		"/home/janderson/curso-python/independentes/ocr_my_pdf/log.txt",
+		"/home/janderson/curso-python/independentes/ocr_my_pdf/ocr-tree.log",
+		"/home/janderson/pesquisa_pibit/hemeroteca-digital/modulo_preparador/jornal.py",
+		"/home/janderson/pesquisa_pibit/hemeroteca-digital/modulo_preparador/test_proc_imagem.py",
+		"/home/janderson/pesquisa_pibit/hemeroteca-digital/modulo_preparador/imagem.py",
+		"/home/janderson/curso-python/independentes/tk_python3/image_property.py",
+		"/home/janderson/curso-python/independentes/tk_python3/customapp/testapp.py",
+		"/home/janderson/curso-python/independentes/tk_python3/customapp/testapp.ui",
+		"/home/janderson/curso-python/independentes/tk_python3/customapp/timewidget.py",
+		"/home/janderson/curso-python/independentes/tk_python3/customapp/customappwidgets.py",
+		"/home/janderson/curso-python/independentes/tk_python3/demo1.ui",
+		"/home/janderson/curso-python/independentes/tk_python3/demo2.ui",
+		"/home/janderson/pesquisa_pibit/hemeroteca-digital/.gitignore",
+		"/home/janderson/Downloads/rotaterightleft.c",
+		"/home/janderson/Área de Trabalho/vbaProject.bin",
+		"/home/janderson/curso-python/independentes/page_magick/teste_fdpf.py",
+		"/home/janderson/pesquisa_pibit/wdl-viewer/Makefile",
+		"/home/janderson/pesquisa_pibit/wdl-viewer/README.rst",
+		"/home/janderson/programas/rarcrack-0.2/rarcrack.h",
+		"/home/janderson/programas/rarcrack-0.2/rarcrack.c",
+		"/home/janderson/pesquisa_pibit/testes/pdf_merger.py",
+		"/home/janderson/pesquisa_pibit/sistema/modulo_preparador/test_proc_jornal.py",
+		"/home/janderson/pesquisa_pibit/hemeroteca-digital/README.md",
+		"/home/janderson/pesquisa_pibit/hemeroteca-digital/.git/hooks/prepare-commit-msg.sample",
+		"/home/janderson/pesquisa_pibit/sistema/modulo_preparador/jornal.py",
+		"/home/janderson/Downloads/gscan2pdf-1.8.0/bin/gscan2pdf",
+		"/home/janderson/codigos-fontes/gscan2pdf-code/t/01_NetPBM.t",
+		"/home/janderson/pesquisa_pibit/sistema/modulo_preparador/test_proc_imagem.py",
+		"/home/janderson/pesquisa_pibit/sistema/modulo_preparador/imagem.py",
+		"/home/janderson/pesquisa_pibit/sistema/modulo_preparador/documento.py",
+		"/home/janderson/pesquisa_pibit/sistema/modulo_preparador/jornal.pdf",
+		"/home/janderson/pesquisa_pibit/sistema/modulo_preparador/result.pdf",
+		"/home/janderson/curso-python/independentes/teste_guetzli/teste_guetzli.py",
+		"/home/janderson/pesquisa_pibit/install-opencv.sh",
+		"/home/janderson/curso-python/independentes/recoonhecimento-imagens/reconhecer-texto/converte-texto.py",
+		"/home/janderson/pesquisa_pibit/sistema/modulo_preparador/out_cinza.txt",
+		"/home/janderson/.virtualenvs/cv/lib/python3.5/site-packages/pytesseract/pytesseract.py",
+		"/home/janderson/curso-python/independentes/recoonhecimento-imagens/reconhecer-texto/teste.py",
+		"/home/janderson/curso-python/independentes/speech-python/python_speech.py",
+		"/home/janderson/curso-python/independentes/speech-python/google_voice.py",
+		"/home/janderson/curso-python/independentes/recoonhecimento-imagens/reconhecer-texto/reconhece-texto_2.py",
+		"/home/janderson/curso-python/independentes/recoonhecimento-imagens/reconhecer-texto/reconhece-texto.py",
+		"/media/janderson/imagens/backup_pc_janderson/pesquisa_periodicos_tela_preparador/manage.py",
+		"/home/janderson/pesquisa_pibit/sistema/modulo_preparador/perguntas e respostas.txt",
+		"/home/janderson/pesquisa_pibit/sistema/modulo_preparador/teste_proc_imagem.py",
+		"/home/janderson/curso-python/independentes/tdd_curso/test_boliche.py",
+		"/home/janderson/curso-python/independentes/py_test/test_c",
+		"/home/janderson/curso-python/independentes/opencv_scanner/scan.py",
+		"/home/janderson/curso-python/independentes/opencv_scanner/bound_box.py",
+		"/home/janderson/pesquisa_pibit/sistema/modulo_preparador/transform.py",
+		"/home/janderson/curso-python/independentes/opencv_scanner/binarize.py",
+		"/home/janderson/curso-python/independentes/opencv_scanner/transform_example.py",
+		"/home/janderson/curso-python/independentes/opencv_scanner/border.py",
+		"/home/janderson/.virtualenvs/cv/lib/python3.5/site-packages/imutils/convenience.py",
+		"/home/janderson/pesquisa_pibit/sistema/modulo_preparador/modulo_preparador",
+		"/home/janderson/curso-python/independentes/opencv_scanner/convert_pdf.py",
+		"/home/janderson/curso-python/independentes/opencv_scanner/teste_tesseract.py",
+		"/home/janderson/curso-python/independentes/opencv_scanner/transform.py",
+		"/home/janderson/curso-python/independentes/opencv_scanner/textdeskew",
+		"/home/janderson/curso-python/independentes/recoonhecimento-imagens/teste.py",
+		"/home/janderson/curso-python/independentes/opencv_scanner/teste_tesseract.cpp",
+		"/home/janderson/curso-python/independentes/opencv_rotate/rotate.py",
+		"/home/janderson/teste.cpp",
+		"/home/janderson/Música/gravacoes/trancricao.html"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 102.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 45.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "icone.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 210.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

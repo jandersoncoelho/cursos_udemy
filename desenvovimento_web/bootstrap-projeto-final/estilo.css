@@ -1,0 +1,122 @@
+/*
+* @author Janderson de Almeida
+* @version: 0.1a;
+*
+*
+*/
+
+/*============================== Layout =============================*/
+
+/* -- Barra de navegação --*/
+
+html, body, .capa{
+	height: 100%;
+}
+
+body{
+ 	/*border: solid red;*/
+ 	/*background-color: rgba(255, 2, 0, 0.15);*/
+ 	background: url('imagens/capa.png'), 
+ 				url('imagens/ruido.png'),
+ 				linear-gradient(60deg, #ffcccc, #3333ff);
+ 	background-attachment: fixed;
+ 	font-family: sans-serif;
+
+
+ }
+
+ 
+.img-logo{
+	height: 40px;
+	width: 132px;
+	display: block;
+	background: url(imagens/spotifui.svg) no-repeat;
+	border: none;
+	background-size: contain;
+	color: transparent;
+}
+
+nav.navbar-transparente{
+	padding: 15px 0px;
+	background: rgba(255, 255, 255, 0.6);
+}
+
+.navbar-brand{
+	padding: 5px 15px;
+}
+
+.divisor{
+
+	width: 1px;
+	height: 16px;
+	background: black;
+	margin: 16px 10px; 
+}
+
+.navbar-inverse .navbar-nav>li> a{
+	 color: black;
+} 
+
+.navbar-inverse .navbar-nav>li> a:hover{
+	 color: #fff;
+} 
+
+/* -- Imagem de capa do site --*/
+.capa{
+	/*border: 1px solid red;*/
+	display: table;
+	width: 100%;
+}
+
+.texto-capa{
+	text-align: center;
+	color: white;
+	display: table-cell;
+	vertical-align: middle;
+}
+
+/* -- Botões --*/
+.btn-custom{
+	color: white;
+	border-radius: 500px;
+	-webkit-border-radius: 500px;
+	-moz-border-radius: 500px;
+	padding: 10px 35px;
+	margin: 0px 15px;
+	text-transform: uppercase;
+	transition: background 0.4s, color 0.4s;
+}
+
+.btn-roxo{
+	background: #7c25f9;
+}
+
+.btn-roxo:link{
+	text-decoration: none;
+}
+
+.btn-roxo:hover{
+	background: #6207e3;
+	color: white;
+}
+
+.btn-branco{
+	border: 2px solid white;
+}
+
+.btn-branco:link{
+	text-decoration: none;
+}
+
+.btn-branco:hover{
+	background-color: white;
+	color: black; 
+}
+/*=========================== Tipografia ============================*/
+
+h1{
+	font-size: 100px;
+	font-weight: 900px;
+	letter-spacing: -0.05em;
+	margin-bottom: 50px;
+}
