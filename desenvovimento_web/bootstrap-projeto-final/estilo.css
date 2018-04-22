@@ -11,6 +11,7 @@
 
 html, body, .capa{
 	height: 100%;
+	overflow: auto;
 }
 
 body{
@@ -18,9 +19,9 @@ body{
  	/*background-color: rgba(255, 2, 0, 0.15);*/
  	background: url('imagens/capa.png'), 
  				url('imagens/ruido.png'),
- 				linear-gradient(60deg, #ffcccc, #3333ff);
+ 				linear-gradient(50deg, #ffcccc, #3333ff);
  	background-attachment: fixed;
-	font-family: sans-serif;
+	font-family: Helvetica,Arial,sans-serif;
 	overflow-x: hidden; 
 
 
@@ -83,8 +84,8 @@ nav.navbar-transparente{
 	border-radius: 500px;
 	-webkit-border-radius: 500px;
 	-moz-border-radius: 500px;
-	padding: 10px 35px;
-	margin: 0px 15px;
+	/*padding: 10px 35px;
+	margin: 10px 15px;*/
 	text-transform: uppercase;
 	transition: background 0.4s, color 0.4s;
 }
@@ -154,11 +155,46 @@ footer{
 /*=========================== Tipografia ============================*/
 
 h1{
-	font-size: 100px;
-	font-weight: 900px;
+	/*font-size: 100px;*/
+	font-weight: 900;
 	letter-spacing: -0.05em;
 	margin-bottom: 50px;
 }
+
+/* Media queries */
+/* xs < 768 */
+@media screen and (max-width: 767px) {
+	h1 {
+	    font-size: 50px; 
+  	}
+  	.btn-custom {
+    	margin: 10px 15px;
+	}
+}
+
+/* sm */
+@media screen and (min-width: 768px) {
+    h1 {
+	    font-size: 70px; 
+  	}
+
+}
+
+/* md */
+@media screen and (min-width: 992px) {
+    h1 {
+	    font-size: 80px; 
+  	}
+}
+
+/* lg */
+@media screen and (min-width: 1200px) {
+    h1 {
+	    font-size: 100px; 
+  	}
+}
+/* Fim Media queries */
+
 
 h2{
 	font-size: 50px;
