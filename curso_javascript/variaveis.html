@@ -6,18 +6,34 @@
         <meta http-equiv="X-UA-Compatible" content="ie=edge">
         <title>Variáveis no JavaScript</title>
         <script type="text/javascript">
-           
-            //string
-            var texto = 'Olá ';
-            var texto2 = prompt('Digite seu nome:')
-            document.write(texto + texto2  + 5);
-            document.write('<br/><br/>')
-            //document.write(texto2)
             
-                     
+            var lista_coisas = Array();
+
+            lista_coisas['frutas'] = Array();
+            lista_coisas['pessoas'] = Array();
+
+            lista_coisas['pessoas'][1] = 'José'
+            lista_coisas['pessoas'][2] = 'Maria'
+            lista_coisas['pessoas'][3] = 'Juquinha'
+           
+            lista_coisas['frutas'][1] = 'pequi'
+            lista_coisas['frutas'][2] = 'sapoti'
+            lista_coisas['frutas'][3] = 'jaca'
+            lista_coisas['frutas'][4] = 'araticum'
+
+            document.write(lista_coisas['frutas'][1] + '<br>')
+            document.write(lista_coisas['frutas'][2] + '<br>')
+            document.write(lista_coisas['frutas'][3] + '<br>')
+            document.write(lista_coisas['frutas'][4] + '<br>')
+            
+            document.write('<br>')
+            
+            document.write(lista_coisas['pessoas'][1] + '<br>')
+            document.write(lista_coisas['pessoas'][2] + '<br>')
+            document.write(lista_coisas['pessoas'][3] + '<br>')
         </script>
     </head>
     <body>
-        
+
     </body>
 </html>
