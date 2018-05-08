@@ -165,10 +165,16 @@ h1{
 /* xs < 768 */
 @media screen and (max-width: 767px) {
 	h1 {
-	    font-size: 50px; 
-  	}
-  	.btn-custom {
-    	margin: 10px 15px;
+		font-size: 50px; 
+		}
+		.btn-custom {
+		margin: 10px 15px;
+	}
+	.rotacionar{
+	transform: rotate(0deg);
+	-ms-transform: rotate(0deg); /* IE 9 */
+		-webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
+		display: inline-flex;
 	}
 }
 

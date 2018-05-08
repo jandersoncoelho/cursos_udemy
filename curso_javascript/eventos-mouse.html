@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <title>Eventos do mouse</title>
+        <script type="text/javascript">
+
+            function msgBoasVindasClickEsquerdo() {
+
+                alert('Boa noite! Você clicou com o botão esquerdo do mouse');
+
+            }
+
+            function msgBoasVindasClickDuplo() {
+
+                alert('Boa noite! Você deu duplo clique');
+
+            }
+
+
+            function msgBoasVindasMouseDown() {
+
+                alert('Boa noite! o evento é o mouse down');
+
+            }
+
+
+            function msgBoasVindasMouseOver() {
+
+                alert('Boa noite! o evento é o mouse over');
+
+            }
+
+
+            function msgBoasVindasMouseout() {
+
+                alert('Boa noite! o evento é o mouse out');
+
+            }
+
+        </script>
+    </head>
+    <body>
+        <div onclick    = msgBoasVindasClickEsquerdo() style="background: #CCC; height: 150px; width: 150px;"></div>
+        <div ondblclick = msgBoasVindasClickDuplo() style="background: #AAA; height: 150px; width: 150px;"></div>
+        <div onmousedown= msgBoasVindasMouseDown() style="background: #BBB; height: 150px; width: 150px;"></div>
+        <div onmouseover= msgBoasVindasMouseOver() style="background: #CCC; height: 150px; width: 150px;"></div>
+        <div onmouseout = msgBoasVindasMouseout() style="background: #DDD; height: 150px; width: 150px;"></div>
+
+    </body>
+</html>
